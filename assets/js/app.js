@@ -447,7 +447,7 @@ function showToast(message) {
     }
 
     const toast = document.createElement('div');
-    toast.className = 'glass-panel text-white text-xs font-semibold px-4 py-3 rounded-xl border border-sky-500/40 shadow-2xl flex items-center gap-2 transform translate-y-4 opacity-0 transition-all duration-300 pointer-events-auto bg-slate-900/90';
+    toast.className = 'glass-card text-xs font-semibold px-4 py-3 rounded-xl border border-sky-500/40 shadow-2xl flex items-center gap-2 transform translate-y-4 opacity-0 transition-all duration-300 pointer-events-auto';
     toast.innerHTML = `
         <svg class="w-4 h-4 text-emerald-400 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"/></svg>
         <span>${message}</span>

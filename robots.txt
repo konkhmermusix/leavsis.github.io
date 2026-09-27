@@ -1,0 +1,5 @@
+# robots.txt for Leav Sis Portfolio (LS Tech Cambodia)
+User-agent: *
+Allow: /
+
+Sitemap: https://leavsis.github.io/sitemap.xml

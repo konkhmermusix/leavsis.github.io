@@ -56,14 +56,6 @@ portfolio/
 
 ---
 
-## 💻 How to Run Locally in VS Code
-
-1. Open VS Code.
-2. Open the project folder: `d:\Temp\Leav Sis\portfolio`
-3. Launch with **Live Server** extension (or simply double-click `index.html` to open in any web browser).
-4. No `npm install` or build step required.
-
----
 
 ## 🎨 Liquid Glass Utility Classes
 
